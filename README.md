@@ -12,11 +12,11 @@ This project's goal is to emboding UI movement by C# scripts.
 
 Below, there are references to implementing UI action tasks.
 
-|||||
-|:---:|:---:|:---:|:---:|
+||||
+|:---:|:---:|:---:|
 |![Image](https://github.com/TheHyperPay/Unity-Animation-Utility/blob/Image/gif/Info_text.gif?raw=true)|![Image](https://github.com/TheHyperPay/Unity-Animation-Utility/blob/Image/gif/Info_bounce.gif?raw=true)|![Image](https://github.com/TheHyperPay/Unity-Animation-Utility/blob/Image/gif/Info_scale.gif?raw=true)|
 |**Sequential Text Print**|**Bounce**|**Scale Change**|
-|||||
+||||
 |![Alt text](https://github.com/TheHyperPay/Unity-Animation-Utility/blob/Image/gif/Info_FadeIO.gif?raw=true)|![Alt text](https://github.com/TheHyperPay/Unity-Animation-Utility/blob/Image/gif/Info_Dynamics.gif?raw=true)|![Alt text](https://github.com/TheHyperPay/Unity-Animation-Utility/blob/Image/gif/Info_Highlight.gif?raw=true)|
 |**Fade In/Out**|**Dynamics**|**Highlight**|
 ||||
