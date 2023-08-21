@@ -1,5 +1,9 @@
 # UI Animation Utility In Unity
 
+Author by *Sihoon Kim*(*김시훈*).
+
+If you detect some error about C# scripts or Document, [<span style="color: red;">**Please send a report message to here!**</span>](mailto:kimsihoon@proton.me) </br>[kimsihoon@proton.me](mailto:kimsihoon@proton.me)
+
 ㅤ
 
 ## 📑Abstract
@@ -59,8 +63,10 @@ UI_Spin.cs script is making **object rotation** like this.
     
 ```
 
-## 📳UI Scale
-UI_Bounce.cs script is making **object bounce** like this.
+## 🎬UI Scale
+UI_Scale.cs script can change **object's size** like this.
+
+![Alt text](https://github.com/TheHyperPay/Unity-Animation-Utility/blob/Image/gif/fadeio.gif?raw=true)
 
 ### Instruction Manual
 
